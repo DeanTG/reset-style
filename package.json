@@ -1,0 +1,23 @@
+{
+  "name": "reset-style",
+  "version": "1.0.0",
+  "description": "a customize css reset",
+  "main": "reset-style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanTG/reset-style.git"
+  },
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "author": "deantg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanTG/reset-style/issues"
+  },
+  "homepage": "https://github.com/DeanTG/reset-style#readme"
+}
