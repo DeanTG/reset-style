@@ -1,0 +1,21 @@
+{
+  "name": "reset-style",
+  "description": "a customize css reset",
+  "main": "reset-style.css",
+  "authors": [
+    "deantg"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "homepage": "https://github.com/DeanTG/reset-style",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
