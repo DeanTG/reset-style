@@ -2,6 +2,7 @@
   "name": "reset-style",
   "description": "a customize css reset",
   "main": "reset-style.css",
+  "version": "1.0.0",
   "authors": [
     "deantg"
   ],
